@@ -4,4 +4,5 @@
 
 ## Summary
 
-We will be looking into this notebook. 
+We will be looking into [this notebook](https://github.com/smarinardila/Testing-for-equality-in-high-dimensional-covariance-matrices/blob/main/testing_equality_covariance_matrices.ipynb). 
+`
