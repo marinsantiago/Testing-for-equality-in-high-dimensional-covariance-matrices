@@ -4,8 +4,8 @@
 
 ```Testing-for-equality-in-high-dimensional-covariance-matrices``` is a repo that provides a discussion on how to test for equality between covariance matrices from different sub-populations in high-dimensional settings, making use of recent advances in Random Matrix Theory and Central Limit Theorems. The repo also contains demos on how to implement such relatively new methodologies in ```R```.
 
-More specifically, we will be looking into [this notebook](https://github.com/smarinardila/Testing-for-equality-in-high-dimensional-covariance-matrices/blob/main/testing_equality_covariance_matrices.ipynb). 
-`
+More specifically, we will be looking into [this notebook](https://github.com/smarinardila/Testing-for-equality-in-high-dimensional-covariance-matrices/blob/main/testing_equality_covariance_matrices.ipynb).
+
 ## Citations  
 
 + Anderson, T. W. (2003). *An Introduction to Multivariate Statistical Analysis.* John Wiley and Sons. New York, NY.
